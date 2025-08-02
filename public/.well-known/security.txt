@@ -1,0 +1,7 @@
+
+Contact: security@pksolutions.dev
+Expires: 2025-12-31T23:59:59.000Z
+Encryption: https://keys.openpgp.org/search?q=security@pksolutions.dev
+Preferred-Languages: en
+Canonical: https://pksolutions.dev/.well-known/security.txt
+Policy: https://pksolutions.dev/security-policy
